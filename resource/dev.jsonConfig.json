@@ -1,0 +1,16 @@
+{
+    "db": {
+        "user": "wolverine",
+        "pass": "W0lver1ne#21",
+        "name": "biller",
+        "host": "34.101.167.194",
+        "port": 3306,
+        "dbType": "mysql",
+        "location": "Asia/Jakarta",
+        "sslMode": "disable",
+        "alias": "default",
+        "force": false,
+        "verbose": true,
+        "debug": true
+    }
+}
